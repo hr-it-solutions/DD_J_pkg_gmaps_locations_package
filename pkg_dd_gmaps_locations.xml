@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="1.6" method="upgrade">
+    <name>DD GMaps Locations Package</name>
+    <creationDate>14.04.2017</creationDate>
+    <author>HR IT-Solutions Florian Häusler</author>
+    <authorEmail>info@hr-it-solutions.com</authorEmail>
+    <authorUrl>https://www.hr-it-solutions.com</authorUrl>
+    <packagename>dd_gmaps_locations</packagename>
+    <version>1.1.0.2</version>
+    <packager>DD COM GMaps Locations Packager</packager>
+    <packagerurl>https://www.hr-it-solutions.com/en/joomla-extensions-en/gmaps-locations</packagerurl>
+    <description>DD GMmaps Locations Package</description>
+    <update>https://www.hr-it-solutions.com/en/joomla-extensions-en/gmaps-locations</update>
+    <scriptfile>pkg_script.php</scriptfile>
+    <files folder="packages">
+        <file type="component" id="com_dd_gmaps_locations">DD_J_com_gmaps_locations.zip</file>
+        <file type="module" id="mod_dd_gmaps_locations_searchfilter" client="site">DD_J_mod_gmaps_locations_searchfilter.zip</file>
+        <file type="module" id="mod_dd_gmaps_module" client="site">DD_J_mod_gmaps_module.zip</file>
+        <file type="plugin" id="plg_system_dd_gmaps_locations_geocode" group="system">DD_J_plg_system_gmaps_locations_geocode.zip</file>
+    </files>
+
+    <!-- Update servers -->
+    <updateservers>
+        <server type="collection" priority="1" name="HR IT-Solutions Updates">http://www.hr-it-solutions.com/jextensions/update.xml</server>
+    </updateservers>
+</extension>
