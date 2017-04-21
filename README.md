@@ -2,7 +2,7 @@
 
 ### Component package for DD_J_com_gmaps_locations
 
-**The [Component package](https://github.com/hr-it-solutions/DD_J_pkg_gmaps_locations_package) installer compilation contains:**
+**This component package installer compilation contains:**
 
 - com_gmaps_locations [GMaps Loctaions](https://github.com/hr-it-solutions/DD_J_com_gmaps_locations)
 - mod_gmaps_locations_searchfilter [GMaps Loctaions Search Filter](https://github.com/hr-it-solutions/DD_J_mod_gmaps_locations_searchfilter)
