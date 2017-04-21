@@ -10,7 +10,6 @@ defined('_JEXEC') or die();
 
 class PKG_DD_GMaps_LocationsInstallerScript
 {
-
 	protected $name = 'DD GMaps Locations Package';
 
 	protected $componentName = 'com_dd_gmaps_locations';
