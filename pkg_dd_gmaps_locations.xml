@@ -8,16 +8,16 @@
     <packagename>dd_gmaps_locations</packagename>
     <license>GNU/GPLv2 only</license>
     <copyright>Copyright (C) 2011 - 2019 HR-IT-Solutions GmbH</copyright>
-    <version>1.1.1.9</version>
+    <version>1.1.2.0</version>
     <packager>DD COM GMaps Locations Packager</packager>
     <packagerurl>https://www.hr-it-solutions.com/en/joomla-extensions-en/gmaps-locations</packagerurl>
     <description>DD GMaps Locations Package</description>
     <update>https://www.hr-it-solutions.com/en/joomla-extensions-en/gmaps-locations</update>
     <scriptfile>pkg_script.php</scriptfile>
     <files folder="packages">
-        <file type="component" id="com_dd_gmaps_locations">DD_J_com_gmaps_locations.zip</file>
+        <file type="component" id="com_dd_gmaps_locations">DD_J_com_gmaps_locations-1.1.2.0.zip</file>
         <file type="module" id="mod_dd_gmaps_locations_searchfilter" client="site">DD_J_mod_gmaps_locations_searchfilter.zip</file>
-        <file type="module" id="mod_dd_gmaps_module" client="site">DD_J_mod_gmaps_module.zip</file>
+        <file type="module" id="mod_dd_gmaps_module" client="site">DD_J_mod_gmaps_module-1.1.2.0.zip</file>
         <file type="plugin" id="plg_system_dd_gmaps_locations_geocode" group="system">DD_J_plg_system_gmaps_locations_geocode.zip</file>
     </files>
 
